@@ -1,0 +1,23 @@
+{
+  "folders": [
+    {
+      "name": "todo",
+      "id": 1
+    }
+  ],
+  "archive": [],
+  "notes": [
+    {
+      "title": ":))",
+      "body": "Hello world!",
+      "folderId": 1,
+      "id": 1
+    },
+    {
+      "title": ":DD",
+      "body": "Witaj świecie!",
+      "folderId": 1,
+      "id": 2
+    }
+  ]
+}
