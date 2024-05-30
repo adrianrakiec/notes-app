@@ -4,8 +4,7 @@
 	"description": "",
 	"main": "index.js",
 	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1",
-		"dev": "json-server --watch db.json"
+		"start": "json-server --host 0.0.0.0 --watch db.json --port $PORT"
 	},
 	"author": "",
 	"license": "ISC",
