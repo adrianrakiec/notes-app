@@ -10,4 +10,4 @@ npm run dev
 ```
 or
 
-[try demo](https://fast-note-app-project.netlify.app/)
+[try demo](https://fast-note-app-project.netlify.app/) ( the database is hosted on the free Render site plan, so the first launch of the application can take several to tens of seconds )
